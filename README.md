@@ -51,7 +51,7 @@ I enjoy turning ideas into functional applications and learning how different pa
 ![Backend](https://img.shields.io/badge/Backend-Spring%20%7C%20Spring%20Boot%20%7C%20JDBC%20%7C%20Hibernate-6DB33F?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20Oracle-F80000?style=for-the-badge)
 ![Core](https://img.shields.io/badge/Core-OOP%20%7C%20DSA%20%7C%20Collections%20%7C%20Exception%20Handling%20%7C%20REST%20APIs-FF6F00?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20Eclipse%20%7C%20VS%20Code%20%7C%20Maven%20%7C%20Vite-181717?style=for-the-badge) what are this contains
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20Eclipse%20%7C%20VS%20Code%20%7C%20Maven%20%7C%20Vite-181717?style=for-the-badge) 
 
 ## 💻 Featured Projects
 
