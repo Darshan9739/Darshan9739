@@ -48,12 +48,12 @@ I enjoy turning ideas into functional applications and learning how different pa
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend
@@ -67,15 +67,24 @@ I enjoy turning ideas into functional applications and learning how different pa
 </p>
 
 ### Core
-- **OOP**
-- **DSA**
-- **Collections**
-- **Exception Handling**
-- **REST APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+**OOP** • **DSA** • **Collections** • **Exception Handling** • **REST APIs**
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,maven" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,maven,vite" />
+</p>
+
+### Core
+<p>
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exception_Handling-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-007396?style=for-the-badge" />
 </p>
 
 **SQL** • **JDBC** • **Spring** • **Spring Boot** • **Hibernate**
