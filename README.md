@@ -1,49 +1,157 @@
 # Hi 👋, I'm Darshana T R
 
-### Java Full-Stack Developer | Building practical web applications
+### Java Full-Stack Developer | Building practical web applications 🚀
 
-🌱 I'm currently strengthening **Spring Boot, React & DSA**
+🌱 I'm currently strengthening **Java, Spring Boot, React & DSA**
 
 👨‍💻 I'm building projects using **Java, Spring Boot, React & MySQL**
 
-📑 Check out my **[Resume](YOUR_RESUME_LINK)**
+📚 I'm continuously improving my **Data Structures & Algorithms** and problem-solving skills
+
+📑 Check out my resume here - **[My Resume](YOUR_RESUME_LINK)**
 
 💻 All of my projects are available on **[GitHub](https://github.com/Darshan9739)**
 
-💬 Ask me about **Java, Spring Boot, React, SQL & REST APIs**
+🌐 Check out my projects and live applications through my repositories
 
-📫 Reach me at **[2842004darshan@gmail.com](mailto:2842004darshan@gmail.com)**
+💬 Ask me about **Java, Spring Boot, React, MySQL & DSA**
 
-### GitHub Stats
+📫 Reach out to me through **[LinkedIn](YOUR_LINKEDIN_LINK)**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan9739&hide_border=true" height="170"/>
+## 🚀 About Me
+
+I'm a **Java Full-Stack Developer** focused on building practical and scalable web applications.
+
+My current focus is on developing strong fundamentals in **Java, Spring Boot, React, MySQL and Data Structures & Algorithms**, while continuously improving my ability to solve real-world programming problems.
+
+I enjoy turning ideas into functional applications and learning how different parts of a full-stack system work together — from the database and backend APIs to the frontend user interface.
+
+## 🛠️ Languages and Tools
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
-### Languages and Tools
+### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,hibernate,mysql,oracle,git,github,maven,vite,idea,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-### Featured Projects
+### Database
 
-<a href="https://github.com/Darshan9739/Employee-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshan9739&repo=Employee-Management-System&hide_border=true" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<a href="YOUR_MOVIE_REPOSITORY_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshan9739&repo=YOUR_MOVIE_REPOSITORY_NAME&hide_border=true" />
-</a>
+### Tools
 
-### Current Focus
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
 
-* 🚀 Building **Java Full-Stack applications**
-* 🌱 Strengthening **Spring Boot & React**
-* 🧠 Improving **Data Structures & Algorithms**
-* 🔧 Working with **REST APIs, Hibernate & SQL**
-* 🤝 Preparing for **Open Source Contributions**
+## 💻 Featured Projects
 
-> **"Build it. Break it. Understand it. Improve it."**
+### 👨‍💼 Employee Management System
+
+A full-stack employee management application built to manage employee information through a web-based interface.
+
+**Tech Stack:** Java, Spring Boot, React, MySQL
+
+🔗 **Repository:** [Employee Management System](https://github.com/Darshan9739/Employee-Management-System)
+
+### 🎬 Movie List Application
+
+A web application for displaying and managing movie-related information with a responsive frontend.
+
+**Tech Stack:** React, JavaScript, HTML, CSS
+
+🔗 **Repository:** [View Project](https://github.com/Darshan9739)
+
+## 🧠 Problem Solving
+
+I am actively strengthening my problem-solving skills through **Data Structures & Algorithms**.
+
+Topics I'm working on include:
+
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Recursion
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Trees
+* Algorithms & Complexity
+* Problem-solving patterns
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Darshan9739&hide_border=true" />
+</p>
+
+## 📈 My Developer Journey
+
+```text
+Java
+  ↓
+OOP & Core Java
+  ↓
+JDBC & MySQL
+  ↓
+Hibernate
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+React
+  ↓
+Full-Stack Applications
+  ↓
+DSA & Problem Solving
+```
+
+I'm continuously working on strengthening each layer and building projects that combine them.
+
+## 🎯 Current Goals
+
+* 🚀 Become a strong **Java Full-Stack Developer**
+* ☕ Deepen my **Core Java & Spring Boot** knowledge
+* ⚛️ Build better applications using **React**
+* 🗄️ Strengthen database and backend development skills
+* 🧠 Improve **DSA & problem-solving**
+* 💻 Build practical real-world projects
+* 📈 Maintain consistent progress on GitHub
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Darshan9739">
+    <img src="https://img.shields.io/badge/GitHub-Darshan9739-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm always learning, building and improving.
 
