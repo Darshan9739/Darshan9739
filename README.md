@@ -1,10 +1,12 @@
-# Hi 👋, I'm Darshana T R
-
+                                                              # Hi 👋, I'm Darshana T R
+                                                        
+                                                        A passionate developer from India 🇮🇳
+                                                        
 ### Java Full-Stack Developer | Building practical web applications 🚀
 
 🌱 I'm currently strengthening **Java, Spring Boot, React & DSA**
 
-👨‍💻 I'm building projects using **Java, Spring Boot, React & MySQL**
+👨‍💻 I'm building projects using **Java, Spring Boot, JavaScript, React & MySQL**
 
 📚 I'm continuously improving my **Data Structures & Algorithms** and problem-solving skills
 
@@ -14,9 +16,9 @@
 
 🌐 Check out my projects and live applications through my repositories
 
-💬 Ask me about **Java, Spring Boot, React, MySQL & DSA**
+💬 Ask me about **Java Backend, Frontend Development & Databases**
 
-📫 Reach out to me through **[LinkedIn](YOUR_LINKEDIN_LINK)**
+📫 Reach me at: **2842004darshan@gmail.com**
 
 ## 🚀 About Me
 
@@ -26,6 +28,21 @@ My current focus is on developing strong fundamentals in **Java, Spring Boot, Re
 
 I enjoy turning ideas into functional applications and learning how different parts of a full-stack system work together — from the database and backend APIs to the frontend user interface.
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Darshan9739&hide_border=true" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&hide_border=true" />
+</p>
 ## 🛠️ Languages and Tools
 
 ### Backend
@@ -88,22 +105,6 @@ Topics I'm working on include:
 * Algorithms & Complexity
 * Problem-solving patterns
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darshan9739&hide_border=true" />
-</p>
-
 ## 📈 My Developer Journey
 
 ```text
@@ -111,20 +112,31 @@ Java
   ↓
 OOP & Core Java
   ↓
-JDBC & MySQL
+Collections & Exception Handling
   ↓
-Hibernate
+DSA & Problem Solving
   ↓
-Spring Boot
+JDBC
+  ↓
+SQL
+  ↓
+Hibernate & ORM
+  ↓
+Spring & Spring Boot
   ↓
 REST APIs
   ↓
-React
+HTML & CSS
+  ↓
+JavaScript
+  ↓
+React.js
   ↓
 Full-Stack Applications
   ↓
-DSA & Problem Solving
-```
+Git & GitHub
+  ↓
+Maven & Vite
 
 I'm continuously working on strengthening each layer and building projects that combine them.
 
