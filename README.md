@@ -44,54 +44,14 @@ I enjoy turning ideas into functional applications and learning how different pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&theme=default" />
 </p>
 
-## 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=hibernate" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### Core
-<p>
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exception_Handling-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-007396?style=for-the-badge" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=eclipse" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=maven" />
-  <img src="https://skillicons.dev/icons?i=vite" />
-</p>
+![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20SQL-3178C6?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20React.js-61DAFB?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Spring%20%7C%20Spring%20Boot%20%7C%20JDBC%20%7C%20Hibernate-6DB33F?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20Oracle-F80000?style=for-the-badge)
+![Core](https://img.shields.io/badge/Core-OOP%20%7C%20DSA%20%7C%20Collections%20%7C%20Exception%20Handling%20%7C%20REST%20APIs-FF6F00?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20Eclipse%20%7C%20VS%20Code%20%7C%20Maven%20%7C%20Vite-181717?style=for-the-badge) what are this contains
 
 ## 💻 Featured Projects
 
