@@ -37,37 +37,48 @@ I enjoy turning ideas into functional applications and learning how different pa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan9739&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9739&layout=compact&theme=default" />
 </p>
+
 ## 🛠️ Languages and Tools
 
-### Backend
-
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
 ### Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
+
+### Core
+- **OOP**
+- **DSA**
+- **Collections**
+- **Exception Handling**
+- **REST APIs**
 
 ### Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,maven" />
 </p>
+
+**SQL** • **JDBC** • **Spring** • **Spring Boot** • **Hibernate**
 
 ## 💻 Featured Projects
 
@@ -137,6 +148,7 @@ Full-Stack Applications
 Git & GitHub
   ↓
 Maven & Vite
+```
 
 I'm continuously working on strengthening each layer and building projects that combine them.
 
@@ -152,9 +164,12 @@ I'm continuously working on strengthening each layer and building projects that 
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="YOUR_LINKEDIN_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:2842004darshan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Darshan9739">
     <img src="https://img.shields.io/badge/GitHub-Darshan9739-black?style=for-the-badge&logo=github" />
@@ -163,7 +178,13 @@ I'm continuously working on strengthening each layer and building projects that 
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  Java Full-Stack Developer • Building • Learning • Solving
+</p>
 
 I'm always learning, building and improving.
 
