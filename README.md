@@ -1,6 +1,6 @@
-                                                              # Hi 👋, I'm Darshana T R
-                                                        
-                                                        A passionate developer from India 🇮🇳
+<h1 align="center">Hi 👋, I'm Darshana T R</h1>
+
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
                                                         
 ### Java Full-Stack Developer | Building practical web applications 🚀
 
