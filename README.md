@@ -48,34 +48,30 @@ I enjoy turning ideas into functional applications and learning how different pa
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=hibernate" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
-</p>
-
-### Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-**OOP** • **DSA** • **Collections** • **Exception Handling** • **REST APIs**
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,maven,vite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### Core
@@ -87,7 +83,15 @@ I enjoy turning ideas into functional applications and learning how different pa
   <img src="https://img.shields.io/badge/REST_APIs-007396?style=for-the-badge" />
 </p>
 
-**SQL** • **JDBC** • **Spring** • **Spring Boot** • **Hibernate**
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
 
 ## 💻 Featured Projects
 
