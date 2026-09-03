@@ -133,7 +133,6 @@ I'm continuously working on strengthening each layer and building projects that 
 * 🗄️ Strengthen database and backend development skills
 * 🧠 Improve **DSA & problem-solving**
 * 💻 Build practical real-world projects
-* 📈 Maintain consistent progress on GitHub
 
 ## 🤝 Connect With Me
 
