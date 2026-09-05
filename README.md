@@ -55,6 +55,22 @@ I enjoy turning ideas into functional applications and learning how different pa
 
 ## 💻 Featured Projects
 
+### 📝 Taskly — Task Management Application
+
+A modern and responsive task management application built with **React.js and Vite**.
+
+- ➕ Create, delete, and clear tasks
+- 🎯 Manage task priorities and categories
+- ✅ Complete and undo tasks with visual strikethrough
+- 📊 Real-time task completion progress
+- 💾 Local Storage persistence
+- 🌙 Modern dark-mode UI
+- 📱 Responsive design
+- 🚀 Deployed with GitHub Pages
+
+🔗 **[Live Demo](https://darshan9739.github.io/Taskly/)**  
+💻 **[Source Code](https://github.com/Darshan9739/Taskly)**
+
 ### 👨‍💼 Employee Management System
 
 A full-stack employee management application built to manage employee information through a web-based interface.
