@@ -31,7 +31,7 @@ I enjoy turning ideas into functional applications and learning how different pa
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darshan9739&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Darshan9739&hide_border=true" />
 </p>
 
 ## 📊 GitHub Stats
