@@ -32,7 +32,7 @@ I enjoy turning ideas into functional applications and learning how different pa
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Darshan9739&theme=dark&hide_border=true&timezone=Asia%2FKolkata"
+    src="https://streak-stats.demolab.com/?user=Darshan9739&theme=dark&hide_border=true&timezone=Asia%2FKolkata&v=2"
     alt="GitHub Streak"
   />
 </p>
